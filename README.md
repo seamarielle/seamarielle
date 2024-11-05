@@ -10,7 +10,7 @@
 🎓 **Information Technology** | National Engineering University  
 🌐 **Aspiring Software Developer/Engineer**
 
-I'm Marielle Sto. Nino Landicho, a dedicated Information Technology major at the National Engineering University, with a passion for web development and a knack for solving complex problems through code. My portfolio includes a variety of projects that reflect my skills and dedication
+I'm Marielle Sto. Nino Landicho, a dedicated BS Information Technology student at the National Engineering University, with a passion for web development and a knack for solving complex problems through code. My portfolio includes a variety of projects that reflect my skills and dedication
 
 ## 🚀 Skills
 - C++
